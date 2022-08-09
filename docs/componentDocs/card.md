@@ -2,11 +2,11 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="/cc.png" summary="Vue" />
+<m-card imgSrc="/moocUI/c.png" summary="Vue" />
 
 ### 代码
 ```html
-<m-card imgSrc="/cc.png" summary="Vue" />
+<m-card imgSrc="/moocUI/c.png" summary="Vue" />
 ```
 
 ### Attributes

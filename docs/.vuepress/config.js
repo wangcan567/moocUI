@@ -1,9 +1,11 @@
 // .vuepress/config.js
 module.exports = {
-    themeConfig: {
-      sidebar: [
-        '/',
-        'componentDocs/card'
-      ]
-    }
+  /* 配置base */
+  base: '/moocUI',
+  themeConfig: {
+    sidebar: [
+      '/',
+      'componentDocs/card'
+    ]
   }
+}
