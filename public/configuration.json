@@ -1,0 +1,25 @@
+{
+  "disabled": {
+    "label": "是否禁用状态，默认为 false",
+    "type": "boolean"
+  },
+  "maxLength": {
+    "label": "最大长度",
+    "type": "number",
+    "min": 1
+  },
+  "size": {
+    "label": "控件大小",
+    "type": "select",
+    "options": ["large", "default", "small"],
+    "defaultValue": "default"
+  },
+  "placeholder": {
+    "label": "占位符",
+    "type": "string"
+  },
+  "label": {
+    "label": "label",
+    "type": "string"
+  }
+}
